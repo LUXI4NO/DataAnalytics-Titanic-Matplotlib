@@ -1,5 +1,4 @@
 # Análisis de Datos sobre la Tripulación del Titanic
-![image](https://github.com/LUXI4NO/DataAnalytics-Titanic-Matplotlib/assets/140111840/a65c5535-1584-411c-9069-261e6fc4fb8f)
 
 ## Índice
 
